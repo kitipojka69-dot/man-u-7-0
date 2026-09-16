@@ -1,2 +1,4 @@
-# man-u-7-0
-ha ha ha 
+my-website/
+├── index.html
+├── style.css
+└── script.js
