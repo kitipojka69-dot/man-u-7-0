@@ -1,0 +1,74 @@
+
+[
+  {
+    "id": 1,
+    "name": "เสื้อยืด Oversize สไตล์เกาหลี",
+    "price": 150,
+    "category": "clothes",
+    "in_cart": false
+  },
+  {
+    "id": 2,
+    "name": "กางเกงคาร์โก้ขายาว ทรงหลวม",
+    "price": 290,
+    "category": "clothes",
+    "in_cart": false
+  },
+  {
+    "id": 3,
+    "name": "เสื้อไหมพรมแขนยาว คาร์ดิแกน",
+    "price": 240,
+    "category": "clothes",
+    "in_cart": false
+  },
+  {
+    "id": 4,
+    "name": "หมวกแก๊ปเบสบอล ปักลายมินิมอล",
+    "price": 99,
+    "category": "clothes",
+    "in_cart": false
+  },
+  {
+    "id": 5,
+    "name": "คีย์บอร์ดบลูทูธไร้สาย ไร้เสียง",
+    "price": 690,
+    "category": "gadget",
+    "in_cart": false
+  },
+  {
+    "id": 6,
+    "name": "พัดลมพกพาปรับความแรง 5 ระดับ",
+    "price": 199,
+    "category": "gadget",
+    "in_cart": false
+  },
+  {
+    "id": 7,
+    "name": "Power Bank 20000mAh ชาร์จเร็ว",
+    "price": 450,
+    "category": "gadget",
+    "in_cart": false
+  },
+  {
+    "id": 8,
+    "name": "หูฟังบลูทูธ TWS เสียงเบสแน่น",
+    "price": 380,
+    "category": "gadget",
+    "in_cart": false
+  },
+  {
+    "id": 9,
+    "name": "ขาตั้งโทรศัพท์มือถือ อลูมิเนียม",
+    "price": 120,
+    "category": "gadget",
+    "in_cart": false
+  },
+  {
+    "id": 10,
+    "name": "โคมไฟตั้งโต๊ะ LED ถนอมสายตา",
+    "price": 250,
+    "category": "gadget",
+    "in_cart": false
+  }
+]
+
